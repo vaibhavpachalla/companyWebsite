@@ -1,1 +1,4 @@
 # companyWebsite
+I have created a website with a number of features using Linux, Apache2, MySQL, and PHP (LAMP Stack). These include create a username and login system using MySQL, creating a secure image upload system using PHP, creating a public and private profile system which allows a user to upload a text description, images, and
+an embedded youtube video. Also, I have created a search system using Apacha SOLR to search through all public profiles on the website. I have made the choice to 
+only put screenshots of the different features of my webdsite online and not the code because I plan on using this code in a commerical product. However, if you are hiring manager for an internship I am applying to, please feel free me to contact me about this project to discuss from the contact information in my resume.
