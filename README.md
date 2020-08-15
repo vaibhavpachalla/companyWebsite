@@ -7,6 +7,7 @@ only put screenshots of the different features of my webdsite online and not the
 
 
 FAQ
+
 1.
     Q. Why does the browser say "not secure" for its HTTPS certificate?
     A. Given the fact that I have chosen to host this project website on my local computer instead of
@@ -23,6 +24,9 @@ FAQ
    
       
  Future Plans:
+ 
+ 
+ 
      I plan on adding a feature that will allow services to be scheduled by users for
      different vendors with public pages. If you are involved in reviewing an application for an 
      internship I am applying to, please feel free me to use the contact information in my resume to 
