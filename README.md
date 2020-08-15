@@ -4,8 +4,9 @@ an embedded youtube video. Also, I have created a search system using Apacha SOL
 only put screenshots of the different features of my webdsite online and not the code because I plan on using this code in a commerical product. However, if you are involved in reviewing an application for an internship I am applying to, please feel free me to use the contact information in my resume to contact me about this project to discuss it in greater detail.
 
 
-FAQ
 
+
+FAQ
 1.
     Q. Why does the browser say "not secure" for its HTTPS certificate?
     A. Given the fact that I have chosen to host this project website on my local computer instead of
@@ -17,7 +18,9 @@ FAQ
        HTTPS certificate. If you are involved in reviewing an application for an internship I am
        applying to, please feel free me to use the contact information in my resume to contact me 
        about this project to discuss it in greater detail.
-      
+   
+   
+   
       
  Future Plans:
      I plan on adding a feature that will allow services to be scheduled by users for
