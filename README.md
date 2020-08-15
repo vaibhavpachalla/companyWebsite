@@ -24,7 +24,8 @@ FAQ
    
    
       
- Future Plans:
+Future Plans:
+
      I plan on adding a feature that will allow services to be scheduled by users for
      different vendors with public pages. If you are involved in reviewing an application for an 
      internship I am applying to, please feel free me to use the contact information in my resume to 
